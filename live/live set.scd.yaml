@@ -1,0 +1,32 @@
+documents: !QVariantList
+  - /Users/maxlouisraugel/Documents/sc/live/live quadraphony.scd
+  - /Users/maxlouisraugel/Documents/sc/instruments/quadraphony.scd
+  - /Users/maxlouisraugel/Library/Application Support/SuperCollider/startup.scd
+  - /Users/maxlouisraugel/Documents/sc/instruments/tidal midi.scd
+  - /Users/maxlouisraugel/Documents/sc/live/untitled folder.scd
+editors: !QVariantMap
+  elements: !QVariantList
+    - !QVariantList
+      - !QVariantMap
+        documentIndex: 1
+        position: 7744
+      - !QVariantMap
+        documentIndex: 2
+        position: 2490
+      - !QVariantMap
+        documentIndex: 0
+        position: 214
+      - !QVariantMap
+        documentIndex: 3
+        position: 209
+      - !QVariantMap
+        documentIndex: 4
+        position: 505
+  state: AAAA/wAAAAEAAAABAAAAZAH/////AQAAAAEA
+mainWindow:
+  detached: !QVariantMap
+    documents-dock: ""
+    help-dock: ""
+    post-dock: ""
+  geometry: AdnQywADAAAAAAAnAAAAFwAABI4AAAK5AAAAJwAAAC0AAASOAAACuQAAAAAAAAAABQAAAAAnAAAALQAABI4AAAK5
+  state: AAAA/wAAAAD9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAfsAAAAcAGQAbwBjAHUAbQBlAG4AdABzAC0AZABvAGMAawAAAAAA/////wAAAF4A////AAAAAQAAAYcAAAJy/AIAAAAC+wAAABIAaABlAGwAcAAtAGQAbwBjAGsBAAAAAAAAAUUAAABMAP////sAAAASAHAAbwBzAHQALQBkAG8AYwBrAQAAAUYAAAEsAAAATAD///8AAALgAAACcgAAAAEAAAACAAAAAQAAAAL8AAAAAA==
